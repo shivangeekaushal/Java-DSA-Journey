@@ -35,4 +35,12 @@ My journey of learning Java and Data Structures &amp; Algorithms.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shivangeekaushal/Java-DSA-Journey/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/shivangeekaushal/Java-DSA-Journey/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/shivangeekaushal/Java-DSA-Journey/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
