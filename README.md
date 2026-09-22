@@ -9,6 +9,7 @@ My journey of learning Java and Data Structures &amp; Algorithms.
 | [0074-search-a-2d-matrix](https://github.com/shivangeekaushal/Java-DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/shivangeekaushal/Java-DSA-Journey/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivangeekaushal/Java-DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/shivangeekaushal/Java-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,9 +41,14 @@ My journey of learning Java and Data Structures &amp; Algorithms.
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivangeekaushal/Java-DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivangeekaushal/Java-DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/shivangeekaushal/Java-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivangeekaushal/Java-DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivangeekaushal/Java-DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/shivangeekaushal/Java-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
